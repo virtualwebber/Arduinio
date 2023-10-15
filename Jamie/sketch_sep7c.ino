@@ -72,7 +72,7 @@ void loop() {
     myDFPlayer.volume(vol);
   }  
   if(millis()-playstart>playtime){
-    myDFPlayer.stop();
+    myDFPlayer.pasue();
     playing=false;
     
   }
