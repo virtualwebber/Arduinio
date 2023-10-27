@@ -1,0 +1,7 @@
+Specification
+
+When turning on no sound is played
+Press a button and there will be a pause of 60 seconds (should be configurable) before the ring tone plays
+When the ring tone is playing, pressing a button will make it stop, if the button is not pressed to stop it should play for 30 seconds (should be configurable)
+Pressing the button again will go through the same steps above
+Volume setting should be persistent between being powered off and on
